@@ -1,0 +1,5 @@
+# Saffron & Soul - Search Engine Directives
+User-agent: *
+Allow: /
+
+Sitemap: https://saffronandsoul.example.com/sitemap.xml
